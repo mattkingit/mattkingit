@@ -10,7 +10,7 @@
           - EF Core
           - Xamarin.Forms
 - 🌱 Additionally am currently pursuing certification as a Mulesoft Developer at [https://training.mulesoft.com](https://training.mulesoft.com/certification/developer-mule4-level1)
-- 🎇 I currently have certifications in the following and they can be viewed [here](https://www.credly.com/earner/settings/profile).
+- 🎇 I currently have certifications in the following and they can be viewed [here](https://www.credly.com/users/matthew-king.e33fd382).
      - CompTia Security+
      - MCP and MCSA with Office 365
      - Genetec Omnicast and Synergis
