@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m Matt King (or MattKingIT pretty much everywhere)
-- 👨🏼‍💼 I'm currently work as a **Systems Developer** focusing on the following...
-- 🥼 I'm currently working on the following...
+- 🔭 My name is Matt King (or MattKingIT pretty much everywhere)
+- 👨🏼‍💼 I currently work as a **Systems Developer** for [Tenax Technologies](https://tenaxtech.com)
+- 🥼 I'm currently working on the following professionally and personally...
      - **Blazor Web and Xamarin Mobile Development**
           - .NET 5/6
           - C# 9
           - ASP.NET Core
           - EF Core
-     - **Xamarin Mobile Application Development**
-- 🌱 I’m currently pursuing certification as a Mulesoft Developer at [https://training.mulesoft.com](https://training.mulesoft.com/course/development-fundamentals)
-- 🎇 I currently have certifications in the following...
+          - Xamarin.Forms
+- 🌱 Additionally am currently pursuing certification as a Mulesoft Developer at [https://training.mulesoft.com](https://training.mulesoft.com/course/development-fundamentals)
+- 🎇 I currently have certifications in the following and they can be viewed [here](https://www.credly.com/earner/settings/profile).
      - CompTia Security+
      - MCP and MCSA with Office 365
      - Genetec Omnicast and Synergis
