@@ -5,7 +5,7 @@
 - 🥼 I'm working on the following professionally and personally...
      - **Blazor Web and Xamarin Mobile Development**
           - .NET 5/6
-          - C# 9
+          - C# 9/10
           - ASP.NET Core
           - EF Core
           - Xamarin.Forms
