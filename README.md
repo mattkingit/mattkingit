@@ -27,13 +27,14 @@
 
 #### Interactive Portfolio
 
-The goal of this project is to use different technologies to create an interactive Portfolio and/or Resume. The larger goal is to get and show my experience with the different technologies used in the process. 
+The goal of this project is to use different technologies to create an interactive Portfolio and/or Resume. The larger goal is to get and show experience with the different technologies used in the process. 
   
 Tasks to accomplish my goal, which may be revised.
 
 Plan, gather requirements and design database and application.
 
 Create database of my experience and eduction with different database management systems
+- SQLite
 - SQL Server
 - MySQL
 
@@ -66,6 +67,16 @@ Other details
 I'm currently working on the planning, requirements gathering and design stages. 
 
 I'll update the progress/process here and on my [WordPress blog](https://www.mattkingit.com/blog) once I get it up and running.
+
+(Update)
+- Did some database design though it is still a work in progress
+- Created a .NET 5 Microservice Application with ASP.NET
+  - Created MVC REST Service for Education using SQLite and Entity Framework
+    - Also verified it works with SQL Server and Entity Framework
+  - Created MVC REST Service for Employment using SQLite and Entity Framework
+    - Also verified it works with SQL Server and Entity Framework
+- Created a Web interface for CRUD operations on the data with MVC Web Application
+- Plan on converting all the above to .NET 6 and Blazor Web Interface
 
 ---
 ### Learning Process
