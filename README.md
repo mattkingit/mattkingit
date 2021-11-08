@@ -6,9 +6,9 @@
      - **Blazor Web and Xamarin Mobile Development**
           - .NET 5/6
           - C# 9/10
-          - ASP.NET Core
-          - EF Core
-          - Xamarin.Forms
+          - ASP.NET Core 5/6
+          - EF Core 5/6
+          - Xamarin.Forms/.NET Maui
 - 🌱 Additionally I am pursuing certification as a Mulesoft Developer at [https://training.mulesoft.com](https://training.mulesoft.com/certification/developer-mule4-level1)
 - 🎇 I have certifications in the following and they can be viewed [here](https://www.credly.com/users/matthew-king.e33fd382).
      - CompTia Security+
