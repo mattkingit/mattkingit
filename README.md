@@ -15,6 +15,7 @@
      - MCP and MCSA with Office 365
      - Genetec Omnicast and Synergis
 - 💬 Ask me about PowerShell (PoSH) Development
+- :bowtie: View my GitHub.io Portfolio at: [https://mattkingit.github.io/](https://mattkingit.github.io/)
 - 👔 View my LinkedIn profile at: [https://www.linkedin.com/in/mattkingit/](https://www.linkedin.com/in/mattkingit/)
 - 📫 How to reach me: [https://www.mattkingit.com](https://www.mattkingit.com/about)
 - 🐥 I'm on Twitter: [https://www.twitter.com/mattkingit](https://www.twitter.com/mattkingit)
