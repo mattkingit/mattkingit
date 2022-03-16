@@ -34,10 +34,11 @@ Tasks to accomplish my goal, which may be revised.
 
 Plan, gather requirements and design database and application.
 
-Create database of my experience and eduction with different database management systems
+Create database of my experience and education with different database management systems
 - SQLite
 - SQL Server
 - MySQL
+- PostgreSQL
 
 Create APIs, Web Service APIs and/or Microservices with different technologies
 - .NET
@@ -50,7 +51,9 @@ Develop applications to display my portfolio
   - C#
   - ASP.NET Core
   - Blazor
-- Mobile Apps with Xamarin
+  - Drupal
+- Mobile Apps with Xamarin/.NET Maui
+  - .NET Maui
   - C#
   - XAML
   - Xamarin.Forms
@@ -61,9 +64,16 @@ Other details
 - Hosting on Azure
 - Azure DevOps
 - Display interactive information
-  - PowerBI 
+  - Power BI
+  - Tableau Public 
   - D3.js
   - ArcGIS Online 
+- Pursue Data Engineering on Microsoft Azure certification - DP-203
+  - Azure Data Bricks
+  - Azure Data Factory
+  - Azure Data Lake
+  - Azure Synapse
+  - Stream Analytics
 
 I'm currently working on the planning, requirements gathering and design stages. 
 
@@ -71,6 +81,13 @@ I'll update the progress/process here and on my [WordPress blog](https://www.mat
 
 (Update)
 - Did some database design though it is still a work in progress
+  - Requested and received download from LinkedIn of data
+  - Created Excel spreadsheet from the LinkedIn download and added missing fields and/or data
+  - Created Access database for designing tables and relationships
+  - Created databases in the following database server environments
+    - SQL Server
+    - mySQL
+    - PostgreSQL 
 - Created a .NET 5 Microservice Application with ASP.NET
   - Created MVC REST Service for Education using SQLite and Entity Framework
     - Also verified it works with SQL Server and Entity Framework
@@ -86,15 +103,15 @@ I've learned a lot during my 30 years in the IT field and formal education but s
 
 I'm hoping this project will reflect the experience I have and what I have learned. 
 
-I get inspired by may I have met in the Meetup Groups and Code Camps and like to thank Scott Hanselman, Russ Fustino, Blain Barton, Michael Stark, Kelvin McDaniel, Kevin D. Wolf, Jeff Truman and so many others.
+I get inspired by many I have met in the Meetup Groups and Code Camps and like to thank Scott Hanselman, Russ Fustino, Blain Barton, Michael Stark, Kelvin McDaniel, Kevin D. Wolf, Jeff Truman and so many others.
 
-I try my best to keep up with technologies and between various online courses/resources and meetups.
+I try my best to keep up with technologies as much as possible with various online courses/resources and meetups.
 
 - Online Courses
   - Udemy
   - Coursera
   - EdX
-  - LinkedIn Learning (Lynda
+  - LinkedIn Learning (Lynda)
   - PluralSight
   - YouTube
   - Channel9
@@ -105,6 +122,7 @@ I try my best to keep up with technologies and between various online courses/re
     - Atlanta .NET User Group
     - Cleveland C#/VB.Net User Group
     - Full Stack Meetup
+    - Memphis .NET User Group
     - Memphis Technology Group
     - Orlando .NET Mobile app User Group
     - SoCo Visual Studio and VS Code Meetup
@@ -116,14 +134,22 @@ I try my best to keep up with technologies and between various online courses/re
     - Atlanta Azure Data User Group
     - Tampa Bay Azure User Group
     - The Nashville Microsoft Azure Users Group
-  - SQL
-    - Database Professionals Virtual Meetup Group   
+  - Data Engineering
+    - Database Professionals Virtual Meetup Group
+    - NASH Sql
+    - Rhode Island SQL Server User Group  
   - BI/Data Science
     - Atlanta Microsoft BI
+    - Data and Analytics Nashville
+    - Des Moines Power BI User Group
+    - DFW Power BI User Group
     - Orlando Machine Learning and Data Science
     - Nashville Modern Excel & Power BI
     - NashBI
+    - San Antonio Power BI User Group
     - Tampa Bay BI and Data Analytics
+    - Tampa Bay Power BI User Group
+    - Tampa R Users Group
   - Other
     - Tampa Game Developers
     - Tampa Games Developer Guild
