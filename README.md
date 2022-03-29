@@ -8,6 +8,7 @@
           - C# 9/10
           - ASP.NET Core 5/6
           - EF Core 5/6
+          - Power BI/Tableau
           - Xamarin.Forms/.NET Maui
 - 🌱 Additionally I am pursuing certification as a Mulesoft Developer at [https://training.mulesoft.com](https://training.mulesoft.com/certification/developer-mule4-level1)
 - 🎇 I have certifications in the following and they can be viewed [here](https://www.credly.com/users/matthew-king.e33fd382).
@@ -80,14 +81,18 @@ I'm currently working on the planning, requirements gathering and design stages.
 I'll update the progress/process here and on my [WordPress blog](https://www.mattkingit.com/blog) once I get it up and running.
 
 (Update)
-- Did some database design though it is still a work in progress
+- Did some database design wthough it is still a work in progress
   - Requested and received download from LinkedIn of data
   - Created Excel spreadsheet from the LinkedIn download and added missing fields and/or data
   - Created Access database for designing tables and relationships
   - Created databases in the following database server environments
     - SQL Server
     - mySQL
-    - PostgreSQL 
+    - PostgreSQL
+- Reviewing the data and figuring out what kind of questions I want to get the answers to using visualizations
+- Performing data wrangling
+  - Performing data cleansing
+- Create data visualizations to publish online
 - Created a .NET 5 Microservice Application with ASP.NET
   - Created MVC REST Service for Education using SQLite and Entity Framework
     - Also verified it works with SQL Server and Entity Framework
@@ -95,6 +100,7 @@ I'll update the progress/process here and on my [WordPress blog](https://www.mat
     - Also verified it works with SQL Server and Entity Framework
 - Created a Web interface for CRUD operations on the data with MVC Web Application
 - Plan on converting all the above to .NET 6 and Blazor Web Interface
+- Embed Power BI in applications
 
 ---
 ### Learning Process
