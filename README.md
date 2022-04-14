@@ -20,7 +20,7 @@
 - 👔 View my LinkedIn profile at: [https://www.linkedin.com/in/mattkingit/](https://www.linkedin.com/in/mattkingit/)
 - 📫 How to reach me: [https://www.mattkingit.com](https://www.mattkingit.com/about)
 - 🐥 I'm on Twitter: [https://www.twitter.com/mattkingit](https://www.twitter.com/mattkingit)
-- 📘 I blog about random things at: [https://www.mattkingit.com/blog](https://www.mattkingit.com/blog)
+- 📘 I blog about random things at: [https://mattkingit.com/blog/](https://www.mattkingit.com/blog)
 - 🥼I also have a GitLab page:[https://gitlab.com/mattkingit](https://gitlab.com/mattkingit) 
 - 🤼 Fun fact: Huge fan of Professional Wrestling
 
