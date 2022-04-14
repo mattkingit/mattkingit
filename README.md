@@ -1,16 +1,20 @@
 ### Hi there 👋
 
 - 🔭 My name is Matt King (or MattKingIT pretty much everywhere)
-- 👨🏼‍💼 I currently work as a **Systems Developer** for [Tenax Technologies](https://tenaxtech.com)
-- 🥼 I'm working on the following professionally and personally...
-     - **Blazor Web and Xamarin Mobile Development**
-          - .NET 5/6
-          - C# 9/10
-          - ASP.NET Core 5/6
-          - EF Core 5/6
+- 👨🏼‍💼 I currently work as a **BI Programmer Analyst** for [LifePoint Health](https://lifepointhealth.net/)
+- 🥼 I'm responsible for creating, updating and maintaining the Power BI environment.
+  - I still try to keep my development skills current and am working on the following...
+     - **Blazor Web and MAUI Development**
+          - .NET 6
+          - C# 10
+          - EF Core 6
           - Power BI/Tableau
-          - Xamarin.Forms/.NET Maui
-- 🌱 Additionally I am pursuing certification as a Mulesoft Developer at [https://training.mulesoft.com](https://training.mulesoft.com/certification/developer-mule4-level1)
+          - Xamarin.Forms/.NET MAUI
+- 🌱 Additionally I am pursuing the following certification 
+  - Mulesoft Developer at [https://training.mulesoft.com](https://training.mulesoft.com/certification/developer-mule4-level1)
+  - CompTIA Data+ [https://www.comptia.org/certifications/data](https://www.comptia.org/certifications/data)
+  - Microsoft Azure Data Fundamentals [https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900)
+  - Data Engineering on Microsoft Azure [https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
 - 🎇 I have certifications in the following and they can be viewed [here](https://www.credly.com/users/matthew-king.e33fd382).
      - CompTia Security+
      - MCP and MCSA with Office 365
@@ -20,8 +24,7 @@
 - 👔 View my LinkedIn profile at: [https://www.linkedin.com/in/mattkingit/](https://www.linkedin.com/in/mattkingit/)
 - 📫 How to reach me: [https://www.mattkingit.com](https://www.mattkingit.com/about)
 - 🐥 I'm on Twitter: [https://www.twitter.com/mattkingit](https://www.twitter.com/mattkingit)
-- 📘 I blog about random things at: [https://mattkingit.com/blog/](https://www.mattkingit.com/blog)
-- 🥼I also have a GitLab page:[https://gitlab.com/mattkingit](https://gitlab.com/mattkingit) 
+- 📘 I blog about random things at: [https://mattkingit.com/blog/](https://mattkingit.com/blog/)
 - 🤼 Fun fact: Huge fan of Professional Wrestling
 
 ---
