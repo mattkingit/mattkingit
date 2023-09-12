@@ -4,21 +4,21 @@
 - 👨🏼‍💼 I currently work as a **BI Programmer Analyst** for [LifePoint Health](https://lifepointhealth.net/)
 - 🥼 I'm responsible for creating, updating and maintaining the Power BI environment.
   - I still try to keep my development skills current and am working on the following...
-     - **Blazor Web and MAUI Development**
-          - .NET 6
-          - C# 10
-          - EF Core 6
-          - Power BI/Tableau
-          - Xamarin.Forms/.NET MAUI
-- 🌱 Additionally I am pursuing the following certification 
+    - **Blazor Web and MAUI Development**
+      - .NET 6
+      - C# 10
+      - EF Core 6
+      - Power BI/Tableau
+      - Xamarin.Forms/.NET MAUI
+- 🌱 Additionally I am pursuing the following certification
   - Mulesoft Developer at [https://training.mulesoft.com](https://training.mulesoft.com/certification/developer-mule4-level1)
   - CompTIA Data+ [https://www.comptia.org/certifications/data](https://www.comptia.org/certifications/data)
   - Microsoft Azure Data Fundamentals [https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900)
   - Data Engineering on Microsoft Azure [https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
 - 🎇 I have certifications in the following and they can be viewed [here](https://www.credly.com/users/matthew-king.e33fd382).
-     - CompTia Security+
-     - MCP and MCSA with Office 365
-     - Genetec Omnicast and Synergis
+  - CompTia Security+
+  - MCP and MCSA with Office 365
+  - Genetec Omnicast and Synergis
 - 💬 Ask me about PowerShell (PoSH) Development
 - :bowtie: View my GitHub.io Portfolio at: [https://mattkingit.github.io/](https://mattkingit.github.io/)
 - 👔 View my LinkedIn profile at: [https://www.linkedin.com/in/mattkingit/](https://www.linkedin.com/in/mattkingit/)
@@ -28,28 +28,32 @@
 - 🤼 Fun fact: Huge fan of Professional Wrestling
 
 ---
+
 ### My Project
 
 #### Interactive Portfolio
 
-The goal of this project is to use different technologies to create an interactive Portfolio and/or Resume. The larger goal is to get and show experience with the different technologies used in the process. 
+The goal of this project is to use different technologies to create an interactive Portfolio and/or Resume. The larger goal is to get and show experience with the different technologies used in the process.
   
 Tasks to accomplish my goal, which may be revised.
 
 Plan, gather requirements and design database and application.
 
 Create database of my experience and education with different database management systems
+
 - SQLite
 - SQL Server
 - MySQL
 - PostgreSQL
 
 Create APIs, Web Service APIs and/or Microservices with different technologies
+
 - .NET
   - Entity Framework
 - [Mulesoft](https://mattkingit.github.io/mattkingitdev-mule/)
 
 Develop applications to display my portfolio
+
 - .NET Web App
   - .NET
   - C#
@@ -61,17 +65,18 @@ Develop applications to display my portfolio
   - C#
   - XAML
   - Xamarin.Forms
-  - Android 
+  - Android
 - WordPress with Blog on process/progress and page
 
 Other details
+
 - Hosting on Azure
 - Azure DevOps
 - Display interactive information
   - Power BI
-  - Tableau Public 
+  - Tableau Public
   - D3.js
-  - ArcGIS Online 
+  - ArcGIS Online
 - Pursue Data Engineering on Microsoft Azure certification - DP-203
   - Azure Data Bricks
   - Azure Data Factory
@@ -79,11 +84,12 @@ Other details
   - Azure Synapse
   - Stream Analytics
 
-I'm currently working on the planning, requirements gathering and design stages. 
+I'm currently working on the planning, requirements gathering and design stages.
 
 I'll update the progress/process here and on my [WordPress blog](https://www.mattkingit.com/blog) once I get it up and running.
 
 (Update)
+
 - Did some database design wthough it is still a work in progress
   - Requested and received download from LinkedIn of data
   - Created Excel spreadsheet from the LinkedIn download and added missing fields and/or data
@@ -106,11 +112,12 @@ I'll update the progress/process here and on my [WordPress blog](https://www.mat
 - Embed Power BI in applications
 
 ---
+
 ### Learning Process
 
 I've learned a lot during my 30 years in the IT field and formal education but still have a lot to learn and loving every minute of it.
 
-I'm hoping this project will reflect the experience I have and what I have learned. 
+I'm hoping this project will reflect the experience I have and what I have learned.
 
 I get inspired by many I have met in the Meetup Groups and Code Camps and like to thank Scott Hanselman, Russ Fustino, Blain Barton, Michael Stark, Kelvin McDaniel, Kevin D. Wolf, Jeff Truman and so many others.
 
