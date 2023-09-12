@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 My name is Matt King (or MattKingIT pretty much everywhere)
 - 👨🏼‍💼 I currently work as a **BI Programmer Analyst** for [LifePoint Health](https://lifepointhealth.net/)
