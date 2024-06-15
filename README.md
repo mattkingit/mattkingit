@@ -5,11 +5,11 @@
 - 🥼 I'm responsible for creating, updating and maintaining the Power BI environment.
   - I still try to keep my development skills current and am working on the following...
     - **Blazor Web and MAUI Development**
-      - .NET 6
-      - C# 10
-      - EF Core 6
+      - .NET 8
+      - C# 12
+      - EF Core 8
       - Power BI/Tableau
-      - Xamarin.Forms/.NET MAUI
+      - .NET MAUI
 - 🌱 Additionally I am pursuing the following certification
   - Mulesoft Developer at [https://training.mulesoft.com](https://training.mulesoft.com/certification/developer-mule4-level1)
   - CompTIA Data+ [https://www.comptia.org/certifications/data](https://www.comptia.org/certifications/data)
@@ -60,11 +60,10 @@ Develop applications to display my portfolio
   - ASP.NET Core
   - Blazor
   - Drupal
-- Mobile Apps with Xamarin/.NET Maui
+- Mobile Apps with .NET Maui
   - .NET Maui
   - C#
   - XAML
-  - Xamarin.Forms
   - Android
 - WordPress with Blog on process/progress and page
 
