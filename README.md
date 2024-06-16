@@ -22,7 +22,7 @@
 - 💬 Ask me about PowerShell (PoSH) Development
 - :bowtie: View my GitHub.io Portfolio at: [https://mattkingit.github.io/](https://mattkingit.github.io/)
 - 👔 View my LinkedIn profile at: [https://www.linkedin.com/in/mattkingit/](https://www.linkedin.com/in/mattkingit/)
-- 📫 How to reach me: [https://www.mattkingit.com](https://www.mattkingit.com/about)
+- 📫 How to reach me: [https://www.mattkingit.com](https://www.mattkingit.com/)
 - 🐥 I'm on Twitter: [https://www.twitter.com/mattkingit](https://www.twitter.com/mattkingit)
 - 📘 I blog about random things at: [https://mattkingit.com/blog/](https://mattkingit.com/blog/)
 - 🤼 Fun fact: Huge fan of Professional Wrestling
