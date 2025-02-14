@@ -5,9 +5,9 @@
 - 🥼 I'm responsible for creating, updating and maintaining the Power BI environment.
   - I still try to keep my development skills current and am working on the following...
     - **Blazor Web and MAUI Development**
-      - .NET 8
-      - C# 12
-      - EF Core 8
+      - .NET 9
+      - C# 13
+      - EF Core 9
       - Power BI/Tableau
       - .NET MAUI
 - 🌱 Additionally I am pursuing the following certification
