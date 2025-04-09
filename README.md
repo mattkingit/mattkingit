@@ -10,6 +10,13 @@
       - EF Core 9
       - Power BI/Tableau
       - .NET MAUI
+    - **Go Development**
+      - Go [Go.dev](https://go.dev/) 
+    - **Rust Development**
+      - Rust [Rust-Lang.org](https://www.rust-lang.org/)
+    - **Flutter/Dart App Development**
+      - Flutter [Flutter.dev](https://flutter.dev/)
+      - Dart [Dart.dev](https://dart.dev/)
 - 🌱 Additionally I am pursuing the following certification
   - Mulesoft Developer at [https://training.mulesoft.com](https://training.mulesoft.com/certification/developer-mule4-level1)
   - CompTIA Data+ [https://www.comptia.org/certifications/data](https://www.comptia.org/certifications/data)
